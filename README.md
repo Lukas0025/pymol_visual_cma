@@ -1,5 +1,7 @@
 # MI VIS - Visual CMA
 
+![Example](visualCMA.png)
+
 ### Zadání 
 
 Na datech s předchozího cvičení odskoušejte jednoducho verzi CMA. K výpočtu hodnot vzájemné informace můžete použít balíček Bioc2cor v R (dostupný v repozitáři CRAN).
